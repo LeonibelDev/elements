@@ -1,7 +1,7 @@
 <template>
   <div class="text-center">
-    <h1>Crea una página con los elementos de HTML.</h1>
-    <h2>Inserta imagen, video y audio.</h2>
+    <h1>Crea una página con los elementos básicos de HTML.</h1>
+    <h2>insertar imagen, video y audio.</h2>
     <hr>
   </div>
   
